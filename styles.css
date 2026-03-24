@@ -55,7 +55,7 @@ main {
 
 .hero {
     text-align: center;
-    background-color: #ecf0f1;
+    background-color: #ead1dc;
     padding: 20px;
     border-radius: 8px;
     margin-bottom: 20px;
@@ -67,7 +67,7 @@ main {
 }
 
 .services-list li {
-    background-color: #ecf0f1;
+    background-color: #ead1dc;
     margin: 10px 0;
     padding: 10px;
     border-radius: 5px;
@@ -98,12 +98,12 @@ button {
 }
 
 button:hover {
-    background-color: #1a252f;
+    background-color: #d9d2e9;
 }
 
 /* Pie de página */
 footer {
-    background-color: #2c3e50;
+    background-color: #674ea7;
     color: white;
     text-align: center;
     padding: 10px;
